@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "maheshnikumbh.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
@@ -15,7 +15,7 @@ footer:
  name: "Hey there, my name is Mahesh Nikumbh"
  bio: "I am a Photographer from Ambernath"
 
-web_design: "AJ"
+web_design: "VivekN"
 social_urls:
   facebook: "https://www.facebook.com/maheshnikumbh"
   twitter: "https://www.twitter.com/maheshnikumbh"
