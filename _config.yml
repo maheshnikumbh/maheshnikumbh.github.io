@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "maheshnikumbh.github.io"
+baseurl: "https://github.com/maheshnikumbh/maheshnikumbh.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
