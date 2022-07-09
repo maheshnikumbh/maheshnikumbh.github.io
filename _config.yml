@@ -1,0 +1,24 @@
+# Base configs
+baseurl: "https://photography.rampatra.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Mahesh Nikumbh"
+subtitle: "See the world through my eyes!"
+author: "Mahesh Nikumbh"
+header:
+ title: "Photography"
+ subtitle: "by Mahesh Nikumbh"
+footer:
+ name: "Hey there, my name is Mahesh Nikumbh"
+ bio: "I am a Photographer from Ambernath"
+
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/maheshnikumbh"
+  twitter: "https://www.twitter.com/maheshnikumbh"
+  instagram: "https://www.instagram.com/maheshnikumbh"
+  linkedin: "https://in.linkedin.com/in/maheshnikumbh"
+  github: "https://www.github.com/maheshnikumbh"
